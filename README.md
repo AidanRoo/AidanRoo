@@ -1,6 +1,6 @@
 # Hey
 
-My name is Aidan and welcome to my GitHub. I am a Cloud Engineer currently working in the FinTech space, I'm a keen technologist who is eager to learn. I am very interested in:
+My name is Aidan and welcome to my GitHub. I am a *Cloud Engineer* currently working in the FinTech space, I'm a keen technologist who is eager to learn. I am very interested in:
 - DevOps
 - Networking
 - Cloud and Infrastructure
