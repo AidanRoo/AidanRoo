@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hey
 
+My name is Aidan and welcome to my GitHub. I am a Cloud Engineer currently working in the FinTech space, I'm a keen technologist who is eager to learn. I am very interested in:
+- DevOps
+- Networking
+- Cloud and Infrastructure
+- Platform Engineering
+
+I may make some things public as I progress on my learning journey, so feel to use it (or not) and give feedback.
+
+## Feel free to connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aidan-rooney-2a9821162/)
 <!--
 **AidanRoo/AidanRoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
